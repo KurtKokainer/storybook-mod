@@ -48,22 +48,32 @@ class Cat():
         'confident', 'daring', 'faithful', 'fierce', 'insecure',
         'lonesome', 'loving', 'loyal', 'nervous', 'playful',
         'responsible', 'righteous', 'shameless', 'sneaky', 'strange', 'strict',
-        'thoughtful', 'troublesome', 'vengeful', 'wise'
+        'thoughtful', 'troublesome', 'vengeful', 'wise', 'shy', 'mean-spirited',
+        'manipulative', 'lovey-dovey', 'easily-infatuated', 'conceited',
+        'depressive', 'gullible', 'hot-headed', 'gossiper', 'brash', 'excitable',
+        'sleepy', 'forgetful', 'reclusive'
     ]
     kit_traits = [
         'attention-seeker', 'bossy', 'bouncy', 'bullying', 'charming',
         'daring', 'daydreamer', 'impulsive', 'inquisitive', 'insecure',
-        'nervous', 'noisy', 'polite', 'quiet', 'sweet', 'troublesome'
+        'nervous', 'noisy', 'polite', 'quiet', 'sweet', 'troublesome', 'imaginative'
+        'drama-queen', 'creepy',
     ]
+    hidden_traits = [
+        'manipulatedmed', 'manipulateddep', 'manipulatedmate', 'manipulatedkit', 'thevampireclown', 'themushroomscientist'
+        ]
     personality_groups = {
         'Outgoing': ['adventurous', 'bold', 'charismatic', 'childish', 'confident', 'daring',
-                     'playful', 'righteous', 'attention-seeker', 'bouncy', 'charming', 'noisy'],
+                     'playful', 'righteous', 'attention-seeker', 'bouncy', 'charming', 'noisy',
+                      'excitable', 'delusional', 'easily-infatuated', 'imaginative'],
         'Benevolent': ['faithful', 'loving', 'responsible', 'thoughtful', 'wise', 'inquisitive',
-                       'polite', 'sweet'],
+                       'polite', 'sweet', 'sweet', 'lovey-dovey', 'gullible'],
         'Abrasive': ['ambitious', 'bloodthirsty', 'cold', 'fierce', 'shameless', 'strict',
-                     'troublesome', 'vengeful', 'bossy', 'bullying', 'impulsive'],
+                     'troublesome', 'vengeful', 'bossy', 'bullying', 'impulsive', 'gossiper',
+                     'mean-spirited', 'manipulative', 'drama-queen'],
         'Reserved': ['calm', 'careful', 'insecure', 'lonesome', 'loyal', 'nervous', 'sneaky',
-                     'strange', 'daydreamer', 'quiet'],
+                     'strange', 'daydreamer', 'quiet', 'reclusive',  'strange', 'daydreamer', 'quiet',
+                     'shy', 'depressive', 'sleepy'],
     }
     ages = [
         'newborn', 'kitten', 'adolescent', 'young adult', 'adult', 'senior adult',
