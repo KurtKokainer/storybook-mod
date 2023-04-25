@@ -1,21 +1,18 @@
-# clangen
+# Clangen Storybook Mod
 
+# Links to the official clangen stuff below
 ### [Discord Server](https://discord.gg/rnFQqyPZ7K) || [Itch.io Page](https://sablesteel.itch.io/clan-gen-fan-edit)
 
-Fan-edit of the warrior cat clangen game
+Storybook mod, created by two discord members going by the names of 'kurt' and 'gordon', a mod that'll uh!! Adds lots of stuff. Yup.
 
 Original creator: just-some-cat.tumblr.com
 
 Fan edit creator: SableSteel, and many others
 
-## Downloads
-Note: These are developer builds and are not guaranteed to work!
-We do not give support to developer builds!
-- [Windows 10+](https://nightly.link/Thlumyn/clangen/workflows/build/development/Clangen_Win64_Windows10%2B.zip)
-- [macOS](https://nightly.link/Thlumyn/clangen/workflows/build/development/Clangen_macOS64.dmg.zip)
-- [Linux](https://nightly.link/Thlumyn/clangen/workflows/build/development/Clangen_Linux64_glibc2.35%2B.tar.xz.zip)
+Cool ass storybook mod creators: Kurt and Gordon
 
-Alternatively, you can see [All Supported Systems](https://nightly.link/Thlumyn/clangen/workflows/build/development)
+To download this just uh. Download the whole thing. That's just there. On github. You'll have to run it through thonny but that's an easy set up so don't worry too much about it. Maybe we'll release a like, compiled easy to run version once our mod is complete.
+
 
 ## Running from source
 ### Requirements
@@ -31,4 +28,4 @@ Run `pip install -r requirements.txt` to install dependencies.
 Run `python3 main.py`. If python3 does not exist try running `python main.py` instead.
 
 ### Bug Reporting
-If you're a Beta Tester, please report bugs using the appropriate discord channels. Otherwise, if you enounter any bugs, we encourage reporting [using this form.](https://docs.google.com/forms/d/e/1FAIpQLSfl-H-HjSTfZ51DCtIHj8uGKtWF-3uysSaP8R6KMTLp7nzmMw/viewform)
+head to the discord server up above, look through the game mod forums, go to the storybook mod one, and put yo bug there!!! easy peasy bro. so easy.
